@@ -1,0 +1,5 @@
+{
+  "name": "midiremote_api_v1",
+  "main": "./midiremote_api_v1.js",
+  "types": "./midiremote_api_v1.d.ts"
+}
